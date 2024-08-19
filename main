@@ -15,7 +15,8 @@
     const excludedSites = [
         'mail.ru',
         'dzen.ru',
-        'support.google.com'
+        'support.google.com',
+        'support.microsoft.com'
     ];
 
     // Функция для формирования строки исключений доменов
